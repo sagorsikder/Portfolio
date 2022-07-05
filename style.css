@@ -1,3 +1,29 @@
+section{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
 .container{
     width: 50%;
+    padding-left: 2%;
+}
+
+
+.container span{
+    color: coral;
+}
+h1{
+    font-size: 50px;
+}
+
+.btn{
+   width: 120px;
+   height: 40px;
+   background-color:green ;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
 }
