@@ -20,6 +20,11 @@ section{
 h1{
     font-size: 50px;
 }
+p{
+    text-align: left;
+    color: cadetblue;
+
+}
 
 .btn{
    width: 100px;
@@ -36,6 +41,7 @@ h1{
 
 .my-image{
     margin-left: 5%;
+    margin-top: 50px;
     width: 400px;
     height: 400px;
     border-radius: 50%;
@@ -48,3 +54,14 @@ h1{
 }
 
 /*first page style end*/
+
+
+/*second page style start*/
+
+.dream-big{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/*second page style end*/
